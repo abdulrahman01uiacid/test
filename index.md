@@ -1,4 +1,0 @@
-HALO
-====
-
-| TEST | TEST2 |
