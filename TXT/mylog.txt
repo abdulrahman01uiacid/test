@@ -1,0 +1,17 @@
+# Log Format YAYAYAYA
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  70 L02 ZOOM meetings (first meeting OS Course) related
+ZCZC W00  10 L03 buat akun GitHub
+ZCZC W00  60 L04 Buat github page
+ZCZC W00  50 L02 ZOOM meetings (pertemuan kamis)
+ZCZC W01  30 L22 Persiapan Quis (review materi) dan mengerjakan Quis
+ZCZC W01 150 L09 kerjakan Assignment 
+ZCZC W01  90 L02 ZOOM meetings (pertemuan senin)
+ZCZC W01  15 L02 ZOOM meetings (pertemuan kamis)
+ZCZC W01 180 L09 lanjut kerjakan Assignment 
+ZCZC W01 500 L71 bantu persiapkan dan mengurus acara di dirumah 
+ZCZC W02  90 L02 ZOOM meetings (Pertemuan Senin)
+ZCZC W02 140 L09 Kerjakan Assignment (nonton video)
+ZCZC W02  60 L26 Belajar Bahasa C 
+ZCZC W02  20 L02 ZOOM meetings (Pertemuan Kamis)

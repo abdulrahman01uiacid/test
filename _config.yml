@@ -1,0 +1,48 @@
+version:     "0001--19-Sep-2021"
+copyright:   "2021-2021"
+description:
+  Ini GitHub Pages saya untuk Mata Kuliah Sistem Operasi (Operating System) Semester ganjil, 2021 (OS212)
+disclaimer:
+  Ini hanya digunakan untuk proses pembelajaran OS212
+keywords:    "jekyll, testing"
+navbarlinks:
+- navbar:    "Home"
+  link:      "/"
+- navbar:    "Links"
+  link:      "/LINKS/"
+- navbar:    "Tips"
+  link:      "/TIPS/"
+- navbar:    "Zip File"
+  link:      "/template.zip"
+- navbar:    "TarBall"
+  link:      "/template.tar.bz2"
+- navbar:    "GitHub"
+  link:      "https://github.com/abdulrahman01uiacid/"
+- navbar:    "Listing"
+  link:      "/000.html"
+- navbar:    "About"
+  link:      "/ABOUT/"
+- navbar:    "GitHub Page"
+  link:      "https://github.io/abdulrahman01uiacid/os212"
+title:       "GitHub Pages for OS212"
+lang:        "en-US"
+author:      "Abdul Rahman"
+address:     "Jati Mekar, Kendari, Kota Kendari, Sultra, Indonesia"
+sitemap:     "true"
+markdown:    "kramdown"
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+google_analytics: "UA-89852122-15"
+
+urlweb:           "https://github.com/abdulrahman01uiacid/os212"
+urlcontact:       "None"
+urlgithub:        "https://github.com/abdulrahman01uiacid/os212"
+
