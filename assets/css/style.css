@@ -135,9 +135,9 @@
   margin:           0px;
 }
 
-.navbar ul li {
+.navbar ul {
   display:          flex;
-  justify-content: flex-start;
+  justify-content: first baseline;
   flex-direction: row;
   background-color: hsla(0,     0%,    0%, 1);
   padding:          13px;
