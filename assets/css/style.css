@@ -135,17 +135,24 @@
   margin:           0px;
 }
 
+
 .navbar ul {
-   overflow: hidden;
+/*    overflow: hidden; */
    list-style-type: none;
    background-color: black;
    margin: 0;
    padding: 0;
-   display:flex;
+   display: flex;
    flex-direction: row;
-   justify-content:first baseline;
+   justify-content: first baseline;
 /*   background-color: hsla(0,     0%,    0%, 1); */
   padding:          13px;
+}
+
+.navbar ul li {
+  display:          inline-block;
+  background-color: hsla(0,     0%,    0%, 1);
+  padding:          11px;
 }
 
 .navbar ul li a {
